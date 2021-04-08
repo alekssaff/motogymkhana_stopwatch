@@ -1,3 +1,5 @@
+# Старт-стоп таймер для мотоджимханы
+
 Электрическая схема
 https://drive.google.com/file/d/14_QnXXG4jSQHk2mMvMcpt08meQi_OGaW/view?usp=sharing
 
