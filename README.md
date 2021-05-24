@@ -27,4 +27,7 @@ LED панель https://aliexpress.ru/item/4001296811800.html?spm=a2g0s.9042311
 
 Если цвет двоеточия красный - таймер не запустится/не остановится, если зеленый, то таймер готов к запуску или остановке.
 
-## Если вам пригодилась схема, подписывайтесь в https://www.instagram.com/alekssaff/
+## Если вам пригодилась схема, подписывайтесь
+https://www.instagram.com/alekssaff/
+
+https://www.youtube.com/alekssaff
