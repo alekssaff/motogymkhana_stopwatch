@@ -33,3 +33,5 @@ LED панель https://aliexpress.ru/item/4001296811800.html?spm=a2g0s.9042311
 https://www.instagram.com/alekssaff/
 
 https://www.youtube.com/alekssaff
+
+Прислать материальную благодарность можно сюда https://yoomoney.ru/to/41001532138726
