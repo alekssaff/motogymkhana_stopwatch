@@ -3,9 +3,8 @@
 
 ### Список компонентов
 
-Сенсор DC12-24V Reflective photoelectric switch photocell E3Z-R61 NPN output Reflex Light Barrier 2.5m detect distance
-
-https://aliexpress.ru/item/4000725631263.html?spm=a2g0s.12269583.0.0.7c5865fcqwORDu&sku_id=10000006378321382
+[Сенсор DC12-24V Reflective photoelectric switch photocell E3Z-R61 NPN output Reflex Light Barrier 2.5m detect distance](https://aliexpress.ru/item/4000725631263.html?spm=a2g0s.12269583.0.0.7c5865fcqwORDu&sku_id=10000006378321382)
+[или лазерный](https://aliexpress.ru/item/1005002273898725.html?spm=a2g2w.orderdetail.0.0.18424aa6WVS9s4&sku_id=12000019867321862)
 
 Arduino nano https://aliexpress.ru/item/32341832857.html?spm=a2g0s.9042311.0.0.264d33edHslPYF&_ga=2.67126161.1801017259.1617779444-381528868.1616234156
 
