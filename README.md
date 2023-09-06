@@ -2,7 +2,7 @@
 
 Электрическая схема
 
-https://drive.google.com/file/d/14_QnXXG4jSQHk2mMvMcpt08meQi_OGaW/view?usp=sharing
+[https://drive.google.com/file/d/14_QnXXG4jSQHk2mMvMcpt08meQi_OGaW/view?usp=sharing](https://github.com/alekssaff/motogymkhana_stopwatch/blob/main/scheme.pdf)
 
 ### Список компонентов
 
